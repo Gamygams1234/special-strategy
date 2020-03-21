@@ -35,12 +35,12 @@ output.grid(row=11, column=0, sticky=W , columnspan = 7)
 #making the dictionary
 my_compdictionary = {
 'STRENGTH':'Strength:\nThe quality or state of being physically strong. \nMight need to carry groceries for yourself and others!',
-'PERCEPTION':"""Perception:\nThe state of being or process of becoming aware of something through the senses. \nBe aware of how far you are away from people. Don't get too close!""",
-'CHARISMA': 'Charisma:\nCompelling attractiveness or charm that can inspire devotion in others. \nInspire your friends and family during this time, and be kind to others. People will be more inclined to help you if you are kind.',
-'ENDURANCE':"""Endurance:\nThe fact or power of enduring an unpleasant or difficult process or situation without giving way.\nMake sure you do not give up during this time. \nTough times don't last, Touugh people do!""",
+'PERCEPTION':"""Perception:\nThe state of being or process of becoming aware of something through the senses. \nBe aware of how distant you are from others. Don't get too close!""",
+'CHARISMA': 'Charisma:\nCompelling attractiveness or charm that can inspire devotion in others. \nInspire your friends and family during this time, and be kind to others. People will be more inclined to help you if you are kind and inspire other people.',
+'ENDURANCE':"""Endurance:\nThe fact or power of enduring an unpleasant or difficult process or situation without giving way.\nMake sure you do not give up during this time. \nTough times don't last, Tough people do!""",
 'INTELLIGENCE':'Intelligence:\nThe ability to acquire and apply knowledge and skills. \nNow is the time to make sure that you are wise with your resources and to know where to get more supplies.',
-'AGILITY':'Agility:\nAbility to move quickly and easily. \nYou mak have to move fast if someone gets too close to you! \nSOCIAL DISTANCING!!!',
-'LUCK':"""Luck:\nSuccess or failure apparently brought by chance rather than through one's own actions. \nIt may take some luck, but the odds are in your favor if you follor social distancing!"""
+'AGILITY':'Agility:\nAbility to move quickly and easily. \nYou may have to move fast if someone gets too close to you! \nSOCIAL DISTANCING!!!',
+'LUCK':"""Luck:\nSuccess or failure apparently brought by chance rather than through one's own actions. \nIt may take some luck, but the odds are in your favor if you follow social distancing!"""
 }
 
 window.mainloop();
